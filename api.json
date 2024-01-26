@@ -1,7 +1,13 @@
 {
-  "Version": "v1.0.1",
+  "Version": "v1.0.0",
   "GameDLL": "https://raw.githubusercontent.com/nax1800/NX-API/main/NX-Game.dll",
   "Updates": [
+            {
+    "Version": "v1.0.0",
+    "Type": "Launcher",
+    "HeaderText": "Place Holder",
+    "DescriptionText": "PH"
+    },
         {
     "Version": "v1.0.0",
     "Type": "Launcher",
