@@ -1,6 +1,6 @@
 {
   "Version": "v1.0.0",
-  "GameDLL": "",
+  "GameDLL": "https://raw.githubusercontent.com/nax1800/NX-API/main/NX-Game.dll",
   "Updates": [
     {
     "Version": "v1.0.0",
