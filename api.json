@@ -5,9 +5,8 @@
     {
     "Version": "v1.0.0",
     "Type": "Game",
-    "Image": "",
-    "HeaderText": "",
-    "DescriptionText": "Added Crafting. (Not Proper, Some items will not craft.)"
+    "HeaderText": "STW Support",
+    "DescriptionText": "Added STW Support. You're now able to enter STW in-game, there are still many features to be added so please be patient!"
     }
   ]
 }
