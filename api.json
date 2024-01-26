@@ -4,27 +4,9 @@
   "Updates": [
         {
     "Version": "v1.0.0",
-    "Type": "Game",
-    "HeaderText": "STW Support",
-    "DescriptionText": "Added STW Support which means you're now able to enter STW in-game! It isn't finished and there are still many features to be added so please be patient!"
-    },
-            {
-    "Version": "v1.0.0",
-    "Type": "Launcher",
-    "HeaderText": "Place Holder",
-    "DescriptionText": "PH"
-    },
-        {
-    "Version": "v1.0.0",
-    "Type": "Launcher",
-    "HeaderText": "Socials",
-    "DescriptionText": "You are now able to get our socials from the launcher! This includes: Discord, X (Twitter) and Github."
-    },
-    {
-    "Version": "v1.0.0",
-    "Type": "Game",
-    "HeaderText": "STW Support",
-    "DescriptionText": "Added STW Support which means you're now able to enter STW in-game! It isn't finished and there are still many features to be added so please be patient!"
+    "Type": "Game & Launcher",
+    "HeaderText": "Release",
+    "DescriptionText": "NX has finally been released to the public! You're now able to play in-game but only in STW currently, there are features such as: Building, Inventory, Crafting (Buggy), and Double Jumping with many more to come!\n Please take note that not everything is stable nor complete, there are some bugs which if you encounter any please report to #bugs channel in the NX Discord Server."
     }
   ]
 }
