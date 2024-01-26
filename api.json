@@ -2,6 +2,12 @@
   "Version": "v1.0.0",
   "GameDLL": "https://raw.githubusercontent.com/nax1800/NX-API/main/NX-Game.dll",
   "Updates": [
+        {
+    "Version": "v1.0.0",
+    "Type": "Game",
+    "HeaderText": "STW Support",
+    "DescriptionText": "Added STW Support which means you're now able to enter STW in-game! It isn't finished and there are still many features to be added so please be patient!"
+    },
             {
     "Version": "v1.0.0",
     "Type": "Launcher",
