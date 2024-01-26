@@ -2,6 +2,12 @@
   "Version": "v1.0.0",
   "GameDLL": "https://raw.githubusercontent.com/nax1800/NX-API/main/NX-Game.dll",
   "Updates": [
+        {
+    "Version": "v1.0.0",
+    "Type": "Launcher",
+    "HeaderText": "Socials",
+    "DescriptionText": "You are now able to get our socials from the launcher! This includes: Discord, X (Twitter) and Github."
+    },
     {
     "Version": "v1.0.0",
     "Type": "Game",
