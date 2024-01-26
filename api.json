@@ -1,0 +1,12 @@
+{
+  "Version": "v1.0.0",
+  "GameDLL": "",
+  "Updates": [
+    {
+    "Version": "v1.0.0",
+    "Type": "STW",
+    "Image": "",
+    "Text": "Added Crafting. (Not Proper, Some items will not craft.)"
+    }
+  ]
+}
