@@ -4,9 +4,10 @@
   "Updates": [
     {
     "Version": "v1.0.0",
-    "Type": "STW",
+    "Type": "Game",
     "Image": "",
-    "Text": "Added Crafting. (Not Proper, Some items will not craft.)"
+    "HeaderText": "",
+    "DescriptionText": "Added Crafting. (Not Proper, Some items will not craft.)"
     }
   ]
 }
