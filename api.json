@@ -12,13 +12,13 @@
     "Version": "v1.0.0",
     "Type": "Game",
     "HeaderText": "Building/Editing",
-    "DescriptionText": "You are now able to build and edit! It may be buggy but I'm looking for ways to fix it."
+    "DescriptionText": "You are now able to build and edit!\n\nNOTE: It may be buggy (Double Builds, Funny Builds) but I'm trying to fix that."
     },
     {
     "Version": "v1.0.0",
     "Type": "Game & Launcher",
     "HeaderText": "Release",
-    "DescriptionText": "NX has finally been released to the public! You're now able to play in-game but only in STW currently, there are features such as: Building, Inventory, Crafting (Buggy), and Double Jumping with many more to come! Also please take note that not everything is stable nor complete, there are some bugs which if you encounter any please report to #bugs channel in the NX Discord Server."
+    "DescriptionText": "NX has finally been released to the public! You're now able to play in-game but only in STW currently, there are features such as: Building, Inventory, and Crafting (Buggy) with many more to come! Also please take note that not everything is stable nor complete, there are some bugs which if you encounter any please report to #bugs channel in the NX Discord Server."
     }
   ]
 }
