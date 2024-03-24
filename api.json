@@ -6,13 +6,13 @@
     "Version": "v1.0.0",
     "Type": "Game",
     "HeaderText": "Battle Royale",
-    "DescriptionText": "You may now explore Battle Royale! You can enter the map and explore it with the skin of your choice!\n\nNOTE: You are only able to Build, Destroy things and Walk around, there is no floor loot or chests working."
+    "DescriptionText": "You may now explore Battle Royale! You can enter the map and explore it with the skin of your choice!\n\nNOTE: You are only able to Build, Destroy things and Walk around, there is no floor loot or chests working at the moment."
     },
     {
     "Version": "v1.0.0",
     "Type": "Game",
     "HeaderText": "Building/Editing",
-    "DescriptionText": "You are now able to build and edit!\n\nNOTE: It may be buggy (Double Builds, Funny Builds) but I'm trying to fix that."
+    "DescriptionText": "You are now able to build and edit!\n\nNOTE: There are bugs such as: Double Builds and Funky Builds but I'm trying to fix that."
     },
     {
     "Version": "v1.0.0",
