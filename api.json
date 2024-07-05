@@ -1,6 +1,7 @@
 {
   "Version": "v1.0.0",
   "GameDLL": "https://raw.githubusercontent.com/nax1800/NX-API/main/NX-Game.dll",
+  "HarmonyEXE": "https://raw.githubusercontent.com/nax1800/NX-API/main/notHarmony.exe",
   "Updates": [
         {
     "Version": "v1.0.0",
