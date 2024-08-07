@@ -4,7 +4,7 @@
   "Swaps": [
     {
       "bIsAssetSwap": false,
-      "bUseFNApi": true,
+      "bUseFNApi": false,
       "Type": "Skins",
       "ItemFrom": "Skull Trooper",
       "ItemFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_030_athena_commando_m_halloween/icon.png",
