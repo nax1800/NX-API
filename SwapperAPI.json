@@ -19,6 +19,24 @@
           "Replace": ""
         }
       ]
+    },
+    {
+      "bIsAssetSwap": false,
+      "bUseFNApi": true,
+      "Type": "Skins",
+      "ItemFrom": "Skull Trooper",
+      "ItemFromImage": "CID_030_Athena_Commando_M_Halloween",
+      "ItemTo": "Skull Trooper",
+      "ItemToImage": "CID_030_Athena_Commando_M_Halloween",
+      "AssetPathFrom": "",
+      "AssetPathTo": "",
+      "Asset": [
+        {
+          "Path": "",
+          "Search": "",
+          "Replace": ""
+        }
+      ]
     }
   ]
 }
