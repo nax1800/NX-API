@@ -1,24 +1,21 @@
 {
-  "Keys": [""],
-  "bUp": true,
-  "Swaps": [
-    {
-      "bIsAssetSwap": false,
-      "bUseFNApi": false,
-      "Type": "Skins",
-      "ItemFrom": "Skull Trooper",
-      "ItemFromImage": "https://fortnite-api.com/images/cosmetics/br/cid_030_athena_commando_m_halloween/icon.png",
-      "ItemTo": "Skull Trooper",
-      "ItemToImage": "https://fortnite-api.com/images/cosmetics/br/cid_030_athena_commando_m_halloween/icon.png",
-      "AssetPathFrom": "",
-      "AssetPathTo": "",
-      "Asset": [
-        {
-          "Path": "",
-          "Search": "",
-          "Replace": ""
-        }
-      ]
-    }
-  ]
+   "bIsUP": true,
+   "Socials": ["discord.gg/", "x.com"],
+   "Items": [
+	 {
+	   "ItemType": 3,
+	   "ItemFrom": "Lockpick",
+	   "ItemTo": "Raider's Revenge",
+	   "ItemFromImageLink": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_165_masterkey/smallicon.png",
+	   "ItemToImageLink": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lockjaw/smallicon.png",
+	   "Swaps": [
+	   {
+		   "AssetPath": "/Game/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_165_MasterKey",
+	  	 "Search": "Lockpick",
+	  	 "Replace": "Raider's Revenge",
+	   	 "bByteSwap": false
+	   }
+	  ]
+	 }
+ ]
 }
