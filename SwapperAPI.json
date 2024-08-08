@@ -16,6 +16,21 @@
 	   	 "bByteSwap": false
 	   }
 	  ]
+	 },
+	   {
+	   "ItemType": 0,
+	   "ItemFrom": "Peely",
+	   "ItemTo": "Renegade Raider",
+	   "ItemFromImageLink": "https://fortnite-api.com/images/cosmetics/br/cid_349_athena_commando_m_banana/smallicon.png",
+	   "ItemToImageLink": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/smallicon.png",
+	   "Swaps": [
+	   {
+		   "AssetPath": "/Game/Athena/Items/Cosmetics/PickAxes/Pickaxe_ID_165_MasterKey",
+	  	 "Search": "Lockpick",
+	  	 "Replace": "Raider's Revenge",
+	   	 "bByteSwap": false
+	   }
+	  ]
 	 }
  ]
 }
